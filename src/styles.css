@@ -219,7 +219,7 @@ h1.texto_claro {
 }
 
 .categoria_4 {
-  background-image: var(--gradiente-categorias-fondo), url("img/chaplin5.jpg");
+  background-image: var(--gradiente-categorias-fondo), url("");
   background-repeat: no-repeat;
   background-size: cover;
 }
