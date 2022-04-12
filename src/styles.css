@@ -201,37 +201,37 @@ h1.texto_claro {
 }
 
 .categoria_1 {
-  background-image: var(--gradiente-categorias-fondo), url("./img/chaplin2.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./img/chaplin2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .categoria_2 {
-  background-image: var(--gradiente-categorias-fondo), url("./img/chaplin3.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./img/chaplin3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .categoria_3 {
-  background-image: var(--gradiente-categorias-fondo), url("./img/chaplin4.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./img/chaplin4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .categoria_4 {
-  background-image: var(--gradiente-categorias-fondo), url("");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./img/chaplin5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .categoria_5 {
-  background-image: var(--gradiente-categorias-fondo), url("./img/chaplin6.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./img/chaplin6.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .categoria_6 {
-  background-image: var(--gradiente-categorias-fondo), url("./img/chaplin7.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./img/chaplin7.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
