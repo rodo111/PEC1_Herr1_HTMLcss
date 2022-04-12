@@ -200,6 +200,45 @@ h1.texto_claro {
   min-height: 300px;
 }
 
+
+.categoria_1 {
+
+  background-image: linear-gradient(rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.8)), url("./img/chaplin10.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.categoria_2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.8)), url("./img/chaplin10.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.categoria_3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.8)), url("./img/chaplin10.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.categoria_4 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.8)), url("./img/chaplin10.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.categoria_5 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.8)), url("./img/chaplin10.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.categoria_6 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.8)), url("./img/chaplin10.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
 @media (min-width:768px) {
   .categorias {
     display: grid;
