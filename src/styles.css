@@ -219,7 +219,7 @@ h1.texto_claro {
 }
 
 .categoria_4 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./img/chaplin5.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
   background-repeat: no-repeat;
   background-size: cover;
 }
