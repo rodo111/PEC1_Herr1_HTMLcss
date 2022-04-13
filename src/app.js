@@ -1,4 +1,4 @@
-//app.js solo se carga en la página "categoria"
+import "./styles2.scss";
 
 window.onload = function () {
     var infancia = document.getElementById("infancia");

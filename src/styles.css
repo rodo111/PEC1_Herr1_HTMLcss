@@ -5,6 +5,7 @@
   --text-hover-color: rgb(0, 0, 0, 0.5);
   --texto-color-titulos-sobrefondooscuro: rgb(255, 255, 255);
   --texto-hover-contraste: rgba(219, 118, 3, 0.6);
+  /* No se ha podido utilizar el siguente código ya que falla la subida a Netlify*/
   --gradiente-categorias-fondo: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7));
 
 }
@@ -70,7 +71,8 @@ nav li {
 @media (min-width: 768px) {
   nav li {
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 5px;
+    padding: 10px 20px;
   }
 }
 
@@ -457,7 +459,7 @@ div.logo {
 @media (min-width:768px) {
   .logo p {
     font-size: 40px;
-    margin-top: 6px;
+    margin-top: 18px;
   }
 }
 
@@ -497,4 +499,8 @@ a .subheader_elemento {
     grid-gap: 0px;
     margin: 0px;
   }
+}
+
+.no_margin_top {
+  margin-top: 0px;
 }

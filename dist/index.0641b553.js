@@ -514,7 +514,7 @@ function hmrAcceptRun(bundle, id) {
 }
 
 },{}],"bNKaB":[function(require,module,exports) {
-//app.js solo se carga en la página "categoria"
+var _styles2Scss = require("./styles2.scss");
 window.onload = function() {
     var infancia = document.getElementById("infancia");
     infancia.onmouseover = function() {
@@ -560,6 +560,6 @@ window.onload = function() {
     };
 };
 
-},{}]},["6IXwR","bNKaB"], "bNKaB", "parcelRequire2868")
+},{"./styles2.scss":"g6yyb"}],"g6yyb":[function() {},{}]},["6IXwR","bNKaB"], "bNKaB", "parcelRequire2868")
 
 //# sourceMappingURL=index.0641b553.js.map

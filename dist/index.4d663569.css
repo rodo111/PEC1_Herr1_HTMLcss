@@ -65,7 +65,8 @@ nav li {
 
 @media (min-width: 768px) {
   nav li {
-    margin-right: 20px;
+    margin-right: 5px;
+    padding: 10px 20px;
     display: inline-block;
   }
 }
@@ -430,7 +431,7 @@ div.logo {
 
 @media (min-width: 768px) {
   .logo p {
-    margin-top: 6px;
+    margin-top: 18px;
     font-size: 40px;
   }
 }
@@ -475,6 +476,14 @@ a .subheader_elemento {
     margin: 0;
     display: grid;
   }
+}
+
+.no_margin_top {
+  margin-top: 0;
+}
+
+.menu_activo {
+  background-color: #dfdfdf2e;
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */

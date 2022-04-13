@@ -1,4 +1,3 @@
-//app.js solo se carga en la página "categoria"
 window.onload = function() {
     var infancia = document.getElementById("infancia");
     infancia.onmouseover = function() {
