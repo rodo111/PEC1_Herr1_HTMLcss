@@ -19,7 +19,7 @@
 80C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2018\IteratorNext.js132942651523600549 0
 64C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\rimraf\README.md132942651517637744 0
 73C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\is-negative-zero\index.js132942651517585672 0
-39C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist132943556106717935 1
+39C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist132943628003638046 1
 73C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\5\TimeClip.js132942651526477378 0
 76C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\electron-to-chromium\LICENSE132942628091811072 0
 78C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\is-negative-zero\.editorconfig132942651516545875 0
@@ -464,7 +464,6 @@
 67C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\weak-lru-cache\dist132942628088704773 1
 52C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\yaml132942628093508726 1
 84C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\cosmiconfig\dist\cacheWrapper.js.map132942628090794193 0
-62C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin12.c553e1c9.jpg132943550358047701 0
 107C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_drop.c132942628092730833 0
 58C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\fill-range132943534131706628 1
 69C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\nice-try\package.json132942651516585868 0
@@ -518,7 +517,6 @@
 71C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\resolve\test\pathfilter132942651519032648 1
 78C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\yaml\browser\dist\package.json132942628093283743 0
 59C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\graceful-fs132942651518007623 1
-62C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin10.66b102c9.jpg132943550358017711 0
 51C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\has132942651517425598 1
 68C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\index.js132942651522338909 0
 72C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\utility-types\SUPPORT.md132942628091054112 0
@@ -1376,6 +1374,7 @@
 68C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\braces\lib\expand.js132943534131886572 0
 63C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\json5\README.md132942628091024129 0
 72C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\v8-compile-cache\LICENSE132942628088754769 0
+60C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\twitter.143e480f.svg132943628003478097 0
 64C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\readdirp\LICENSE132943534131546679 0
 77C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\v8-compile-cache\package.json132942628089224689 0
 69C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\readdirp\package.json132943534131686635 0
@@ -1862,6 +1861,7 @@
 87C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2015\OrdinaryHasProperty.js132942651524731120 0
 81C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\css-select\lib\procedure.d.ts.map132942628092002235 0
 68C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\svgo\lib\svgo\coa.js132942628091124096 0
+57C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.70639cf7.js132943628003488091 0
 73C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\core\src\requests132942628179689066 1
 92C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\source-map\dist\wasm-bindings-web.js132942628091314029 0
 67C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\call-bind\.eslintrc132942651516795796 0
@@ -2021,7 +2021,6 @@
 104C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\watcher\prebuilds\win32-x64\node.napi.glibc.node132942628093607780 0
 76C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\spdx-exceptions\package.json132942651516785800 0
 73C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\spdx-exceptions\README.md132942651516995733 0
-60C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\twitter.053898bd.svg132943550358187656 0
 73C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\spdx-correct\package.json132942651517075710 0
 69C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\domutils\lib\feeds.js132942628089044754 0
 76C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\package-manager\test132942628155046815 1
@@ -2284,6 +2283,7 @@
 70C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\picomatch\lib\parse.js132943534131786601 0
 75C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\resolve\test\precedence\aaa132942651519032648 1
 80C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2021\ToUint8Clamp.js132942651527592749 0
+61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin8.04ffeb0f.jpg132943628001788633 0
 76C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\nanoid\url-alphabet\index.js132942724276787675 0
 83C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\alt-oc.js132942628092920768 0
 59C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\resolve\bin132942651517605579 1
@@ -2463,6 +2463,7 @@
 102C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c132942628093788309 0
 71C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\posthtml-parser\license132942628088734785 0
 77C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\is-number-object\package.json132942651517817682 0
+61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin6.fa144042.jpg132943628001778635 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\BS.js132942628094491612 0
 71C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\postcss\lib\tokenize.js132942724276570780 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\posthtml-parser\dist\index.d.ts132942628090244365 0
@@ -2954,7 +2955,6 @@
 76C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\domutils\lib\legacy.d.ts.map132942628090834197 0
 72C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\packager-raw\src132942628125134541 1
 66C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\nice-try\README.md132942651517285670 0
-61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin6.5948ee09.jpg132943550357977718 0
 60C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\nice-try\src132942651517475580 1
 69C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\nice-try\src\index.js132942651517505672 0
 75C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\domutils\lib\traversal.d.ts132942628091920112 0
@@ -3957,6 +3957,7 @@
 87C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2021\IsGenericDescriptor.js132942651523051854 0
 80C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2020\HourFromTime.js132942651522272691 0
 84C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2021\IsIntegralNumber.js132942651523101780 0
+61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin1.26e10bf1.jpg132943628001768655 0
 89C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2021\IsNoTearConfiguration.js132942651523124978 0
 77C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2021\IsPromise.js132942651523196737 0
 82C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2021\IsStringPrefix.js132942651523396072 0
@@ -4005,7 +4006,6 @@
 83C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2021\SetFunctionName.js132942651525611281 0
 85C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2021\SetIntegrityLevel.js132942651525679545 0
 88C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2018\ToPropertyDescriptor.js132942651527255808 0
-57C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.0641b553.js132943550358027704 0
 86C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2021\SpeciesConstructor.js132942651525791643 0
 78C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2021\SplitMatch.js132942651525847590 0
 82C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2021\StringToBigInt.js132942651526038720 0
@@ -4139,7 +4139,6 @@
 84C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\autoprefixer\lib\hacks\flex-basis.js132942724276570780 0
 77C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2020\IsInteger.js132942651523091864 0
 70C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\domelementtype\lib\esm132942628090814198 1
-61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin1.7b60ce4a.jpg132943550357977718 0
 89C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2020\IsNoTearConfiguration.js132942651523124978 0
 81C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2020\IsPropertyKey.js132942651523266594 0
 94C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2016\AbstractEqualityComparison.js132942651519447993 0
@@ -4288,6 +4287,7 @@
 82C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\css-tree\lib\common\TokenStream.js132942628094805082 0
 84C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\features\brotli.js132942628094435635 0
 75C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2019\IsArray.js132942651522660876 0
+60C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\youtube.b75c3407.svg132943628003478097 0
 78C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2019\IsCallable.js132942651522720997 0
 86C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2019\IsConcatSpreadable.js132942651522839042 0
 81C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2019\IsConstructor.js132942651522884885 0
@@ -4398,6 +4398,7 @@
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\KG.js132942628098803749 0
 73C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2018\floor.js132942651521592544 0
 90C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2018\FromPropertyDescriptor.js132942651521658323 0
+61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin4.7e92cfef.jpg132943628001768655 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\GQ.js132942628097883806 0
 71C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2018\Get.js132942651521712226 0
 98C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\utils\test\replaceBundleReferences.test.js132942628173811097 0
@@ -4628,7 +4629,6 @@
 87C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2016\OrdinaryHasProperty.js132942651524751141 0
 78C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2016\RegExpExec.js132942651525096280 0
 90C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2016\RequireObjectCoercible.js132942651525188093 0
-58C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.4d663569.css132943555928397175 0
 85C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2016\SetIntegrityLevel.js132942651525626359 0
 60C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\entities\lib132942628091992238 1
 82C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\core\lib\serializerCore.js132942628178526937 0
@@ -4661,7 +4661,7 @@
 91C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2015\CreateListFromArrayLike.js132942651520633010 0
 81C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2015\DayWithinYear.js132942651521099939 0
 89C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2015\DefinePropertyOrThrow.js132942651521169599 0
-52C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\detalle.html132943556106697943 0
+52C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\detalle.html132943628003488091 0
 74C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2015\modulo.js132942651524091474 0
 73C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2015\floor.js132942651521568619 0
 90C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\es-abstract\2015\FromPropertyDescriptor.js132942651521635175 0
@@ -4790,6 +4790,7 @@
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\NC.js132942628099649038 0
 71C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\domhandler\package.json132942628089514596 0
 68C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\domhandler\readme.md132942628090134400 0
+61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin3.5362ac67.jpg132943628001608686 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\PE.js132942628099974143 0
 73C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\domhandler\lib\index.d.ts132942628090234379 0
 77C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\domhandler\lib\index.d.ts.map132942628089814509 0
@@ -5110,7 +5111,6 @@
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\EC.js132942628097108094 0
 89C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\autoprefixer\lib\hacks\grid-row-column.js132942724276727692 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\ER.js132942628097190258 0
-60C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\youtube.79cf5956.svg132943550358187656 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\ES.js132942628097200275 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\ET.js132942628097285312 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\FI.js132942628097363412 0
@@ -5204,6 +5204,7 @@
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\PR.js132942628100126758 0
 95C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\transformer-sass\src\SassTransformer.js132943534138840031 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\PT.js132942628100230085 0
+58C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.24ee1cb5.css132943628003478097 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\PW.js132942628100265857 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\PY.js132942628100273477 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\QA.js132942628100283487 0
@@ -5257,7 +5258,6 @@
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\YT.js132942628102014635 0
 79C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\regions\ZA.js132942628102024609 0
 81C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\features\aac.js132942628091871039 0
-62C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.4d663569.css.map132943555928397175 0
 87C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\features\svg-fonts.js132942628100855095 0
 85C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\features\ac3-ec3.js132942628091950103 0
 91C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\features\accelerometer.js132942628091992238 0
@@ -5614,7 +5614,6 @@
 95C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\features\template-literals.js132942628100958439 0
 91C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\features\text-overflow.js132942628101014469 0
 94C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\features\text-size-adjust.js132942628101021643 0
-61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin9.fb18f0ba.jpg132943550358067690 0
 89C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\features\text-stroke.js132942628101021643 0
 99C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\caniuse-lite\data\features\text-underline-offset.js132942628101031676 0
 78C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\watcher\src\Backend.hh132942628091314029 0
@@ -5677,6 +5676,7 @@
 70C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\call-bind\CHANGELOG.md132942651518088513 0
 133C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\browser.js132942628101850046 0
 70C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\call-bind\package.json132942651517997626 0
+62C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.24ee1cb5.css.map132943628003488091 0
 67C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\buffer-from\LICENSE132942628088684768 0
 91C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\workers\lib\threads\ThreadsChild.js132942628103759802 0
 71C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\browserslist\browser.js132942628089024751 0
@@ -6268,7 +6268,7 @@
 93C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js132942628141221756 0
 78C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\optimizer-htmlnano\lib132942628136175453 1
 82C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\optimizer-htmlnano\LICENSE132942628136109006 0
-54C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\categoria.html132943551888445302 0
+54C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\categoria.html132943628003478097 0
 87C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\optimizer-htmlnano\package.json132942628136205585 0
 78C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\optimizer-htmlnano\src132942628136185443 1
 85C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\core\lib\public\Dependency.js132942628170907548 0
@@ -6433,7 +6433,6 @@
 139C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json132942628180161094 0
 91C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock132942628180201080 0
 108C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json132942628180099716 0
-61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin3.d990a43d.jpg132943550358017711 0
 113C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json132942628180069639 0
 103C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\core\test\fixtures\invalid-targets\package.json132942628180049649 0
 111C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src\index.js132942628171243029 0
@@ -6558,7 +6557,6 @@
 63C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\nanoid.ps1132942724277318224 0
 71C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\node-gyp-build.ps1132943534139079937 0
 68C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\npm-run-all.cmd132942651528383355 0
-61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\categoria.816e7b21.js132943543533712792 0
 59C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\parcel132942628897448434 0
 63C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\parcel.cmd132942628897448434 0
 60C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\pidtree132942651528393303 0
@@ -6577,16 +6575,18 @@
 61C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\svgo.cmd132942628897428441 0
 61C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\svgo.ps1132942628897428441 0
 59C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\terser132942628897428441 0
-57C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\presentacion.html132943552540827920 0
+57C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\presentacion.html132943628003488091 0
 58C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\which132942651528383355 0
 62C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\which.cmd132942651528383355 0
 62C:\ProyectosJS\PEC1_Herra1_HTMLcss\node_modules\.bin\which.ps1132942651528383355 0
-65C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\categoria.816e7b21.js.map132943543533752782 0
-62C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin14.9ed0c1a0.jpg132943550358017711 0
-61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin2.b8a32473.jpg132943550357867759 0
-61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin4.060133ea.jpg132943550357867759 0
-61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin8.b04c7a3a.jpg132943550358017711 0
-52C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\enlaces.html132943552832738535 0
-61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.0641b553.js.map132943550358157662 0
-50C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.html132943550358187656 0
-62C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\instagram.b6dad8a8.svg132943550357987715 0
+62C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin10.3b7e72f3.jpg132943628001608686 0
+62C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin12.eafc3fd8.jpg132943628001608686 0
+62C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin14.b2c34413.jpg132943628001608686 0
+61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin2.b4f0d974.jpg132943628001768655 0
+61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\chaplin9.cce85d8c.jpg132943628001778635 0
+52C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\enlaces.html132943628003488091 0
+61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.70639cf7.js.map132943628003488091 0
+57C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.e53d393f.js132943628003488091 0
+61C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.e53d393f.js.map132943628003488091 0
+50C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\index.html132943628003478097 0
+62C:\ProyectosJS\PEC1_Herra1_HTMLcss\dist\instagram.b1db25d6.svg132943628003038237 0
