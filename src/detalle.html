@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Infancia</title>
+    <link rel="icon" href="./img/favicon.ico">
     <link rel="stylesheet" href="styles.css" />
     <script type="module" src="app.js"></script>
     <script src="https://kit.fontawesome.com/cc3ec4fd36.js" crossorigin="anonymous"></script>
@@ -18,7 +19,8 @@
         <div class="contenedor_fullwidth">
 
             <div class="logo">
-                <p><a href="index.html" title="Charles Chaplin">CHAPLIN</a></p>
+                <p><a href="index.html" title="Charles Chaplin"><img src="./img/hat.svg"
+                            alt="logo sombrero y bigote">CHAPLIN</a></p>
             </div>
 
             <div class="norespmenu">
@@ -91,7 +93,19 @@
             <div class="detalles">
 
                 <div class="detalle detalle_1">
-                    <img src="./img/chaplin8.jpg" alt="retrato de charlie chaplin">
+                    <!--Esta es la imagen que había orignalmente-->
+                    <!--<img src="./img/chaplin8.jpg" alt="retrato de charlie chaplin">-->
+
+                    <picture class="imagen">
+                        <source media="(max-width: 767px)" srcset="./img/chaplin8b2.jpg 500w,
+                                  ./img/chaplin8b1.jpg 767w" sizes="(min-width: 500px) 100vw,
+                                  100vw">
+                        <source media="(min-width: 768px)" srcset="./img/chaplin8a2.jpg 300w,
+                                  ./img/chaplin8a1.jpg 450w" sizes="(min-width: 768px) 30vw,
+                                  30vw">
+                        <img src="./img/chaplin8a1.jpg" alt="Chris standing up holding his daughter Elva">
+                    </picture>
+
                 </div>
 
                 <div class="detalle detalle_2">
@@ -151,6 +165,18 @@
 
             </div>
 
+            <div class="detalle_img">
+                <div class="detalle_imgin">
+                    <img src="./img/chaplin21b.webp" alt="chaplin de niño">
+                </div>
+                <div class="detalle_imgin">
+                    <img src=" ./img/chaplin23.jpg" alt="chaplin de niño">
+                </div>
+                <div class="detalle_imgin">
+                    <img src=" ./img/chaplin22.png" alt="chaplin de niño">
+                </div>
+            </div>
+
 
         </div>
 
@@ -159,6 +185,22 @@
     <footer>
         <div class="contenedor_fullwidth">
             <ul class="menu_footer">
+
+                <li>
+                    <ul class="nav2_footer">
+
+                        <li><input type="checkbox">Ver menú
+                            <ul>
+                                <li><a href="index.html" title="Charles Chaplin">Portada</a></li>
+                                <li><a href="categoria.html" title="Categorías de Charles Chaplin">Categoría</a></li>
+                                <li><a href="presentacion.html"
+                                        title="Resumén del contenido web Charles Chaplin">Presentación</a></li>
+                                <li><a href="enlaces.html" title="Materiales consultados">Enlaces</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
                 <li><a href="#">Sobre nosotros</a></li>
                 <li><a href="#">Aviso legal</a></li>
                 <li><a href="#">Política de privacidad</a></li>

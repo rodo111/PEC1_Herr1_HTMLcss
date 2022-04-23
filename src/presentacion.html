@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Presentación</title>
+    <link rel="icon" href="./img/favicon.ico">
     <link rel="stylesheet" href="styles.css" />
     <script type="module" src="app.js"></script>
     <script src="https://kit.fontawesome.com/cc3ec4fd36.js" crossorigin="anonymous"></script>
@@ -18,7 +19,8 @@
         <div class="contenedor_fullwidth">
 
             <div class="logo">
-                <p><a href="index.html" title="Charles Chaplin">CHAPLIN</a></p>
+                <p><a href="index.html" title="Charles Chaplin"><img src="./img/hat.svg"
+                            alt="logo sombrero y bigote">CHAPLIN</a></p>
             </div>
 
             <div class="norespmenu">
@@ -57,9 +59,29 @@
 
         <div class="contenedor">
 
-            <h2 class="h2_subtitulo">Uno de los mayores cómicos de todos los tiempos</h2>
+            <h2 class="h2_subtitulo2">Uno de los mayores cómicos de todos los tiempos</h2>
+            <div class="contenedor_animacion1">
+                <svg id="animacion1" xmlns="http://www.w3.org/2000/svg" width="56.907px" height="56.907px"
+                    viewBox="0 0 56.907 56.907">
+                    <g>
+                        <path d="M22.655,56.332c2.456,0.549,4.528,0.057,5.799-0.993c1.271,1.05,3.343,1.542,5.798,0.993
+                      c5.586-1.246,8.879,0.575,8.879,0.575c0.417-6.554-4.921-8.389-7.865-8.903c-0.54-0.118-1.114-0.185-1.709-0.195
+                      c-0.104-0.004-0.163-0.006-0.163-0.006c-2.049,0-3.855,0.688-4.94,1.733c-1.086-1.046-2.893-1.733-4.94-1.733
+                      c0,0-0.061,0.002-0.163,0.006c-0.595,0.011-1.169,0.077-1.708,0.195c-2.944,0.515-8.283,2.35-7.865,8.903
+                      C13.776,56.907,17.069,55.086,22.655,56.332z" />
+                    </g>
+                </svg>
+            </div>
             <div>
-                <img class="img_ancho_completo" src="./img/chaplin9.jpg" alt="escena cómica de película de Chaplin">
+                <!--Imagen inicial-->
+                <!-- <img class="img_ancho_completo" src="./img/chaplin9.jpg" alt="escena cómica de película de Chaplin"> -->
+
+                <img class="img_ancho_completo" srcset="./img/chaplin9c.webp 400w,
+                            ./img/chaplin9b.webp 700w,
+                            ./img/chaplin9a.webp 1000w" sizes="(max-width: 767px) 95vw,
+		                    (max-width: 1200px) 70vw,
+		                	70vw" src="./img/chaplin9.jpg" alt="escena cómica de película de Chaplin">
+
             </div>
             <p>
                 En esta págian web encontrarás información sobre Charlie Chaplin, un
@@ -117,6 +139,23 @@
                     allowfullscreen></iframe>
             </div>
 
+
+
+            <div class="detalle2_img">
+                <div class="detalle2_imgin">
+                    <img srcset="./img/chaplin30x1.jpg,
+                                  ./img/chaplin30x2.jpg 2x" src="./img/chaplin30x2.jpg" alt="Cahplin sentado">
+                </div>
+                <div class="detalle2_imgin">
+                    <img srcset="./img/chaplin31x1.jpg,
+                                  ./img/chaplin31x2.jpg 2x" src="./img/chaplin31x2.jpg" alt="Retrato de Cahplin">
+                </div>
+            </div>
+
+
+
+
+
         </div>
 
 
@@ -125,6 +164,23 @@
     <footer>
         <div class="contenedor_fullwidth">
             <ul class="menu_footer">
+
+                <li>
+                    <ul class="nav2_footer">
+
+                        <li><input type="checkbox">Ver menú
+                            <ul>
+                                <li><a href="index.html" title="Charles Chaplin">Portada</a></li>
+                                <li><a href="categoria.html" title="Categorías de Charles Chaplin">Categoría</a></li>
+                                <li><a href="presentacion.html"
+                                        title="Resumén del contenido web Charles Chaplin">Presentación</a></li>
+                                <li><a href="enlaces.html" title="Materiales consultados">Enlaces</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+
+
                 <li><a href="#">Sobre nosotros</a></li>
                 <li><a href="#">Aviso legal</a></li>
                 <li><a href="#">Política de privacidad</a></li>
