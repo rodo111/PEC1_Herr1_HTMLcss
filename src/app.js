@@ -1,4 +1,5 @@
-import "./styles2.scss";
+
+
 
 window.onload = function () {
     var infancia = document.getElementById("infancia");

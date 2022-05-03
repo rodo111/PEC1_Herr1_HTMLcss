@@ -624,6 +624,7 @@ div.contenedor_animacion1 {
 
 div.detalle_imgin img {
   width: 100%;
+  height: auto;
 }
 
 .detalle2_img {
@@ -693,4 +694,9 @@ div.detalle2_imgin img {
 
 .nav2_footer input[type="checkbox"]:hover {
   cursor: pointer;
+}
+
+
+.menu_activo {
+  background-color: #dfdfdf2e;
 }
