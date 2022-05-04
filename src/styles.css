@@ -17,6 +17,8 @@ body {
   margin: 0px;
   padding: 0px;
   text-align: justify;
+  font-family: 'Tinos', serif;
+
 }
 
 main {
@@ -359,6 +361,7 @@ dd {
 
 img.img_ancho_completo {
   width: 100%;
+  height: auto;
 }
 
 .contenedor_video {
@@ -490,6 +493,7 @@ div.logo {
 
 .logo img {
   width: 30px;
+  height: 30px;
   margin-right: 10px;
 }
 
@@ -501,6 +505,7 @@ div.logo {
 
   .logo img {
     width: 40px;
+    height: 40px;
     margin-right: 15px;
   }
 
@@ -639,7 +644,7 @@ div.detalle_imgin img {
 
 .detalle2_imgin {
   max-width: 399px;
-
+  height: auto;
 }
 
 div.detalle2_imgin img {
@@ -699,4 +704,13 @@ div.detalle2_imgin img {
 
 .menu_activo {
   background-color: #dfdfdf2e;
+}
+
+ul.redes_sociales a img {
+  height: 34px;
+  width: 34px;
+}
+
+div.espaciado {
+  height: 3000px;
 }

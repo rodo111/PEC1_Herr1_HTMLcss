@@ -6,8 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Presentación</title>
     <link rel="icon" href="./img/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="styles.css" />
-    <script async src="https://kit.fontawesome.com/cc3ec4fd36.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="cssawesome/all.min.css">
+    <link rel="stylesheet" href="cssawesome/fontawesome.min.css">
+    <!--<script async src="https://kit.fontawesome.com/cc3ec4fd36.js" crossorigin="anonymous"></script>-->
 </head>
 
 <body>
@@ -172,13 +178,69 @@
                 fundó la United Artists.
             </p>
 
+            <div class=""></div>
 
+            <!-- 
             <div class="contenedor_video">
-                <iframe width="100%" src="https://www.youtube.com/embed/EG0JyxQ970Q" title="YouTube video player"
-                    frameborder="0"
+                <iframe loading="lazy" width="100%" src="https://www.youtube.com/embed/EG0JyxQ970Q"
+                    title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
             </div>
+            -->
+            <!-- Reemplazamos el código del vídeo anterior por el siguiete
+            para mejorar el rendimiento de la página. Habría que 
+            sacar los estilos a la hoja de estilos, aunque se dejara aquí
+            para poder analizarlo de mejor manera con fines educativos.
+            -->
+            <div style="width: 100%; border: solid 1px white ;margin-bottom: 40px;">
+                <div style="position: relative; padding-bottom: 56.15%; height: 0; overflow: hidden;">
+                    <iframe style="position: absolute; top: 0; left:0; width: 100%; height: 100%; border: 0;"
+                        loading="lazy" ; srcdoc="<style>
+                      * {
+                      padding: 0;
+                      margin: 0;
+                      overflow: hidden;
+                      }
+                      
+                      body, html {
+                        height: 100%;
+                      }
+                      
+                      img, svg {
+                        position: absolute;
+                        width: 100%;
+                        top: 0;
+                        bottom: 0;
+                        margin: auto;
+                      }
+                      
+                      svg {
+                        filter: drop-shadow(1px 1px 10px hsl(206.5, 70.7%, 8%));
+                        transition: all 250ms ease-in-out;
+                      }
+                      
+                      body:hover svg {
+                        filter: drop-shadow(1px 1px 10px hsl(206.5, 0%, 10%));
+                        transform: scale(1.2);
+                      }
+                    </style>
+                    <a href='https://www.youtube.com/embed/EG0JyxQ970Q?autoplay=1'>
+                      <img src='https://img.youtube.com/vi/EG0JyxQ970Q/sddefault.jpg' alt='Chaplin'>
+                        <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none'
+                            stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'
+                            class='feather feather-play-circle'>
+                            <circle cx='12' cy='12' r='10'></circle>
+                            <polygon points='10 8 16 12 10 16 10 8'></polygon>
+                        </svg>
+                        </a>
+                        " src="https://www.youtube.com/embed/EG0JyxQ970Q" title="Chaplin" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
 
 
 
