@@ -17,8 +17,8 @@ body {
   margin: 0px;
   padding: 0px;
   text-align: justify;
-  font-family: 'Tinos', serif;
-
+  font-family: 'Times New Roman', serif;
+  font-display: swap;
 }
 
 main {
