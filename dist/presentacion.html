@@ -30,7 +30,10 @@
                       }
                     </style>
                     <a href='https://www.youtube.com/embed/EG0JyxQ970Q?autoplay=1'>
-                      <img src='https://img.youtube.com/vi/EG0JyxQ970Q/sddefault.jpg' alt='Chaplin'>
+                    <!--<img src='https://img.youtube.com/vi/EG0JyxQ970Q/sddefault.jpg' alt='Chaplin'>-->
+                    <!--Unicamente deseamos proporcionar una alternativa para los navegadores que no soportan WebP-->
+                        <img srcset='./img/sddefault.webp 1000w' sizes='100vw' src='./img/sddefault.jpg'
+                        alt='Chaplin'>
                         <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none'
                             stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'
                             class='feather feather-play-circle'>
